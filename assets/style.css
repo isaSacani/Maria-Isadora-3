@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: #dd9fe9;
+    --card-back-color: #ffffff;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url(img/fundo-de-mancha-em-aquarela-de-cor-pastel_52683-12281\ \(1\).avif);
     font-family: Bai Jamjuree;
 }
 
@@ -77,12 +77,12 @@ body {
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
-    background-color: rgba(0, 244, 191, 0.2);
+    background-color: rgba(255, 255, 255, 0.2);
     border: 4px solid var(--card-back-color);
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(231, 26, 204);
     color: white;
     position: fixed;
     bottom: 0;
